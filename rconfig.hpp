@@ -80,8 +80,8 @@
 
 // Project information
 #define _APP_AUTHOR L"Henry++"
-#define _APP_GITHUB_URL L"https://github.com/henrypp"
-#define _APP_WEBSITE_URL L"https://www.henrypp.org"
+#define _APP_GITHUB_URL L"https://github.com"
+#define _APP_WEBSITE_URL L"https://google.com" 
 #define _APP_DONATE_URL _APP_WEBSITE_URL L"/donate?from=%s"
 
 #ifdef _APP_BETA
